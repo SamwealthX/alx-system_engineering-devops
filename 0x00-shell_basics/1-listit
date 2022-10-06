@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -l
+=======
+ls
+>>>>>>> 4fb6c7a3e77476d01cc274fbc0e7c4b138806bcf
